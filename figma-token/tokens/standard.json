@@ -1,0 +1,307 @@
+{
+  "tr-color-primary-brand-light-default": {
+    "value": "#13cec9",
+    "type": "color"
+  },
+  "tr-color-primary-brand-light-hover": {
+    "value": "#37d8cd",
+    "type": "color"
+  },
+  "tr-color-primary-brand-light-active": {
+    "value": "#0caeae",
+    "type": "color"
+  },
+  "tr-color-primary-brand-light-pressed": {
+    "value": "#0caeae",
+    "type": "color"
+  },
+  "tr-color-primary-brand-light-disable": {
+    "value": "#89ebde",
+    "type": "color"
+  },
+  "tr-color-primary-brand-light-light": {
+    "value": "#e8fffa",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-default": {
+    "value": "#053D65",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-hover": {
+    "value": "#194f75",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-active": {
+    "value": "#032E51",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-pressed": {
+    "value": "#032E51",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-disable": {
+    "value": "#669DBA",
+    "type": "color"
+  },
+  "tr-color-primary-brand-dark-light": {
+    "value": "#E3F7FF",
+    "type": "color"
+  },
+  "tr-color-info-default": {
+    "value": "#3491F9",
+    "type": "color"
+  },
+  "tr-color-info-hover": {
+    "value": "#58A9FA",
+    "type": "color"
+  },
+  "tr-color-info-active": {
+    "value": "#206CCF",
+    "type": "color"
+  },
+  "tr-color-info-pressed": {
+    "value": "#206CCF",
+    "type": "color"
+  },
+  "tr-color-info-disable": {
+    "value": "#9FD3FD",
+    "type": "color"
+  },
+  "tr-color-info-light": {
+    "value": "#E8F7FF",
+    "type": "color"
+  },
+  "tr-color-error-default": {
+    "value": "#F53F3F",
+    "type": "color"
+  },
+  "tr-color-error-hover": {
+    "value": "#F76560",
+    "type": "color"
+  },
+  "tr-color-error-active": {
+    "value": "#CB2634",
+    "type": "color"
+  },
+  "tr-color-error-pressed": {
+    "value": "#CB2634",
+    "type": "color"
+  },
+  "tr-color-error-disable": {
+    "value": "#FBACA3",
+    "type": "color"
+  },
+  "tr-color-error-light": {
+    "value": "#FFECE8",
+    "type": "color"
+  },
+  "tr-color-error-border": {
+    "value": "#FBACA3",
+    "type": "color"
+  },
+  "tr-color-warning-default": {
+    "value": "#FF7D00",
+    "type": "color"
+  },
+  "tr-color-warning-hover": {
+    "value": "#FF9A2D",
+    "type": "color"
+  },
+  "tr-color-warning-active": {
+    "value": "#D25F00",
+    "type": "color"
+  },
+  "tr-color-warning-pressed": {
+    "value": "#D25F00",
+    "type": "color"
+  },
+  "tr-color-warning-disable": {
+    "value": "#FFCF8B",
+    "type": "color"
+  },
+  "tr-color-warning-light": {
+    "value": "#FFF7E8",
+    "type": "color"
+  },
+  "tr-color-success-default": {
+    "value": "#00B42A",
+    "type": "color"
+  },
+  "tr-color-success-hover": {
+    "value": "#25C343",
+    "type": "color"
+  },
+  "tr-color-success-active": {
+    "value": "#009A29",
+    "type": "color"
+  },
+  "tr-color-success-pressed": {
+    "value": "#009A29",
+    "type": "color"
+  },
+  "tr-color-success-disable": {
+    "value": "#7BE188",
+    "type": "color"
+  },
+  "tr-color-success-light": {
+    "value": "#E8FFEA",
+    "type": "color"
+  },
+  "tr-color-text-primary": {
+    "value": "#000000d9",
+    "type": "color"
+  },
+  "tr-color-text-icon1": {
+    "value": "#000000d9",
+    "type": "color"
+  },
+  "tr-color-text-secondary": {
+    "value": "#000000a6",
+    "type": "color"
+  },
+  "tr-color-text-placeholder": {
+    "value": "#00000073",
+    "type": "color"
+  },
+  "tr-color-text-disable": {
+    "value": "#00000040",
+    "type": "color"
+  },
+  "tr-color-text-white-primary": {
+    "value": "#FFFFFF",
+    "type": "color"
+  },
+  "tr-color-text-white-secondary": {
+    "value": "#ffffffd9",
+    "type": "color"
+  },
+  "tr-color-text-white-placeholder": {
+    "value": "#ffffffa6",
+    "type": "color"
+  },
+  "tr-color-text-white-disable": {
+    "value": "#ffffff4d",
+    "type": "color"
+  },
+  "tr-color-text-link-default": {
+    "value": "#053D65",
+    "type": "color"
+  },
+  "tr-color-text-link-hover": {
+    "value": "#194f75",
+    "type": "color"
+  },
+  "tr-color-text-link-active": {
+    "value": "#032E51",
+    "type": "color"
+  },
+  "tr-color-bg-page": {
+    "value": "#f2f3f5",
+    "type": "color"
+  },
+  "tr-color-bg-container": {
+    "value": "#FFFFFF",
+    "type": "color"
+  },
+  "tr-color-bg-secondarycontainer": {
+    "value": "#F8F9FA",
+    "type": "color"
+  },
+  "tr-color-bg-thirdcontainer": {
+    "value": "#f5f6f7",
+    "type": "color"
+  },
+  "tr-color-bg-container-hover": {
+    "value": "#EFF0F1",
+    "description": "色彩 - 一、二、三级容器的hover",
+    "type": "color"
+  },
+  "tr-color-bg-fourthcontainer": {
+    "value": "#f2f3f5",
+    "type": "color"
+  },
+  "tr-color-bg-fourthcontainer-hover": {
+    "value": "#E1E3E5",
+    "type": "color"
+  },
+  "tr-color-bg-fifthcontainer": {
+    "value": "#EFF0F1",
+    "type": "color"
+  },
+  "tr-color-bg-fifthcontainer-hover": {
+    "value": "#dee0e3",
+    "type": "color"
+  },
+  "tr-color-bg-button-normal": {
+    "value": "#f2f3f5",
+    "type": "color"
+  },
+  "tr-color-bg-disable": {
+    "value": "#EFF0F1",
+    "type": "color"
+  },
+  "tr-color-border-container-light": {
+    "value": "#dee0e3",
+    "type": "color"
+  },
+  "tr-color-border-container-dark": {
+    "value": "#d0d3d6",
+    "type": "color"
+  },
+  "tr-color-border-light": {
+    "value": "#EFF0F1",
+    "type": "color"
+  },
+  "tr-color-border-divider": {
+    "value": "#dee0e3",
+    "type": "color"
+  },
+  "tr-color-table-bg-normal": {
+    "value": "#FFFFFF",
+    "type": "color"
+  },
+  "tr-color-table-bg-zebra": {
+    "value": "#F8F9FA",
+    "type": "color"
+  },
+  "tr-color-table-bg-head": {
+    "value": "#f2f3f5",
+    "type": "color"
+  },
+  "tr-color-table-bg-hover": {
+    "value": "#EFF0F1",
+    "type": "color"
+  },
+  "tr-color-table-bg-pressed": {
+    "value": "#dee0e3",
+    "type": "color"
+  },
+  "tr-color-table-bg-selected": {
+    "value": "#E8F7FF",
+    "type": "color"
+  },
+  "tr-color-scrollbar": {
+    "value": "#0000001a",
+    "type": "color"
+  },
+  "tr-color-bg-mask": {
+    "value": "#00000080",
+    "type": "color"
+  },
+  "tr-color-nav-dark-bg-default": {
+    "value": "#192543",
+    "type": "color"
+  },
+  "tr-color-nav-dark-bg-hover": {
+    "value": "#2E3C63",
+    "type": "color"
+  },
+  "tr-color-nav-dark-bg-open": {
+    "value": "#1F2E54",
+    "type": "color"
+  },
+  "tr-color-nav-light-text-default": {
+    "value": "#03666D",
+    "type": "color"
+  }
+}
